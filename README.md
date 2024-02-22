@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/clipso92"><img src="https://api.daily.dev/devcards/v2/ntTTGZoZieyuCOasS6LaI.png?type=wide&r=21o" width="652" alt="mohammed adbelhadi's Dev Card"/></a>
+
 <!--
 **Clipso/Clipso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
