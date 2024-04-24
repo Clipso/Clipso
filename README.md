@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on ...
 
 <a href="https://app.daily.dev/clipso92"><img src="https://api.daily.dev/devcards/v2/ntTTGZoZieyuCOasS6LaI.png?type=wide&r=21o" width="652" alt="mohammed adbelhadi's Dev Card"/></a>
 
@@ -16,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<script src="https://tryhackme.com/badge/3019158"></script>
